@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">扫码入库</string>
+    <string name="permission_camera">App扫码需要用到拍摄权限</string>
+</resources>
