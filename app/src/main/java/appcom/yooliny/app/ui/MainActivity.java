@@ -1,4 +1,4 @@
-package appcom.yooliny.app;
+package appcom.yooliny.app.ui;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -15,6 +15,7 @@ import android.widget.Toast;
 import com.king.zxing.CaptureActivity;
 import com.king.zxing.CaptureFragment;
 
+import appcom.yooliny.app.R;
 import pub.devrel.easypermissions.AfterPermissionGranted;
 import pub.devrel.easypermissions.EasyPermissions;
 
